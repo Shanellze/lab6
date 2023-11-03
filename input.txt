@@ -1,0 +1,2 @@
+Hello, my name is shanell. I am the original contents of the input file.
+:0
